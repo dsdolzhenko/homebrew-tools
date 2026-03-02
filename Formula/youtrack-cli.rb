@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
 class YoutrackCli < Formula
-  desc "CLI utility to access YouTrack that is designed to be used both by humans and LLMs"
+  desc "CLI to access YouTrack that is designed to be used both by humans and LLMs"
   homepage "https://github.com/dsdolzhenko/youtrack-cli"
   version "0.2.0"
   license "MIT"
